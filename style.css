@@ -1,0 +1,32 @@
+.filter {
+    filter: blur(20px) grayscale(20%);
+}
+
+.paragraph {
+    color: red;
+}
+
+.para3 {
+    color: green;
+}
+
+.para2 {
+    color :blueviolet
+}
+
+.para4 {
+    color: yellow;
+}
+
+.mybutton {
+    color: green;
+}
+.favoritestyled {
+    color: orange;
+}
+
+body {
+    background-color: pink;
+}
+}
+
